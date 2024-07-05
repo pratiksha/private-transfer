@@ -1,0 +1,8 @@
+[submodule "opacus"]
+	path = opacus
+	url = https://github.com/pratiksha/opacus
+	branch = openclip
+[submodule "open_clip_dp"]
+	path = open_clip_dp
+	url = https://github.com/ars22/open_clip_dp/
+	branch = opacus_ft
